@@ -15,8 +15,9 @@
 </h1>
 <h3 align="center">I'm a passionate Frontend Developer from Indonesia.</h3>
 
-## 🙋‍♂️ About Me 
-- 📫 How to reach me **ikhsan15nur@gmail.com** 
+## 🙋‍♂️ About Me
+- 🌱 I’m currently learning **svelte, flutter.**
+- 📫 How to reach me **ikhsan15nur@gmail.com**
 - ⚡ Fun fact **i'am happy man.**
 <p align="left">
 	<a href="https://instagram.com/ikhsan15nur" target="blank"
@@ -29,7 +30,7 @@
 	/></a>
 </p>
 
-<br>
+<br />
 
 ## 🚀 Languages and Tools:
 <p align="left">
@@ -198,7 +199,7 @@
 	</a>
 </p>
 
-<br>
+<br />
 
 ## 📊 My Github Stats
 <br />
