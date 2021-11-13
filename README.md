@@ -28,8 +28,8 @@
 	
 </p>
 
-```js
-<?php echo "Hello World"; ?>
+```php
+<?= "Hello World"; ?>
 <?php
   $learning   = array('Web', 'Svelte', 'Flutter');
   $ide        = array('Vs Code');
@@ -40,6 +40,7 @@
 
 ?>
 ```
+
 <br />
 
 ## 📊 My Github Stats
