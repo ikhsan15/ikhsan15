@@ -46,26 +46,23 @@
 
 ?>
 ```
+<br />
 
 ## 📊 My Github Stats
-<br />
-<a
-	href="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsan15&show_icons=true&locale=en&layout=compact"
-	><img
-		src="https://github-readme-stats.vercel.app/api?username=ikhsan15&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"
-		alt="ikhsan15"
-/></a>
-<a
-	href="https://github-readme-stats.vercel.app/api?username=ikhsan15&show_icons=true&locale=en"
-	><img
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsan15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"
-		alt="ikhsan15"
-/></a>
-<br />
+<center>
+  <table>
+    <tr>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=ikhsan15&show_icons=true&count_private=true&theme=tokyonight" /></td>
+	<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsan15&hide=html,TSQL,CSS,SCSS&layout=compact&count_private=true&langs_count=8&theme=tokyonight" /></td>
+    </tr>   
+  </table>
+</center>
+
 <b>Note:</b> Top languages is only a metric of the languages my public code
 consists of and doesn't reflect experience or skill level.
+
 <br />
-<br />
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
 	<img
@@ -79,4 +76,3 @@ consists of and doesn't reflect experience or skill level.
 		alt="GitHub Badge"
 	 />
 </a>
-
