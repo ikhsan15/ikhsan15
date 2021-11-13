@@ -28,6 +28,8 @@
 	
 </p>
 
+<img align="left" src="https://github.com/ikhsan15/ikhsan15/blob/main/sans.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+
 ```zsh
 > sans buster
 ```
@@ -45,10 +47,8 @@
 ?>
 ```
 
-<br />
-
 ## 📊 My Github Stats
-<br />
+
 <a
 	href="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsan15&show_icons=true&locale=en&layout=compact"
 	><img
@@ -64,9 +64,6 @@
 <br />
 <b>Note:</b> Top languages is only a metric of the languages my public code
 consists of and doesn't reflect experience or skill level.
-
-<br />
-<br />
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
