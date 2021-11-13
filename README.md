@@ -22,7 +22,7 @@
 
 <br />
 
-## 🙋‍♀️ Let's Connect
+## 🚀 Let's Connect
 <p align="center">
   	<a href="https://iory-say.herokuapp.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
 	<a href="mailto:ikhsan15nur@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
@@ -33,105 +33,18 @@
 	
 </p>
 
-<br />
+```js
+<?php echo "Hello World"; ?>
+<?php
+  $learning   = array('Web', 'Svelte', 'Flutter');
+  $ide        = array('Vs Code');
+  $languages  = array('PHP', 'Javascript', 'Html', 'Css');
+  $databases  = array('PostgreSQL', 'MySql', 'Firebase');
+  $frameworks = array('Codeigniter 3', 'Laravel', 'yii 2');
+  $platforms  = array('Heroku', 'Netlify');
 
-## 🚀 Languages and Tools:
-<p align="left">
-	<a href="https://www.php.net" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-			alt="php"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.postgresql.org" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-			alt="postgresql"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://codeigniter.com" target="_blank">
-		<img
-			src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
-			alt="codeigniter"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.mysql.com/" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-			alt="mysql"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.figma.com/" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-			alt="figma"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://firebase.google.com/" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-			alt="firebase"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://flutter.dev" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-			alt="flutter"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-		<img
-			src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-			alt="illustrator"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a
-		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-		target="_blank"
-	>
-		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-			alt="javascript"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://sapper.svelte.dev/" target="_blank">
-		<img
-			src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/master/public/logos/sapper.svg"
-			alt="sapper"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://svelte.dev" target="_blank">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-			alt="svelte"
-			width="40"
-			height="40"
-		/>
-	</a>
-</p>
-
-<br />
-
+?>
+```
 <br />
 
 ## 📊 My Github Stats
@@ -166,4 +79,3 @@ consists of and doesn't reflect experience or skill level.
 	><img
 		src="https://img.shields.io/github/followers/ikhsan15?label=Followers&style=social"
 		alt="GitHub Badge"
-/></a>
