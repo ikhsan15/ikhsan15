@@ -15,11 +15,6 @@
 </h1>
 <h3 align="center">I'm a Web Developer from Indonesia.</h3>
 
-## 🙋‍♂️ About Me
-- 🌱 I’m currently learning **svelte, flutter, python.**
-- 📫 How to reach me **ikhsan15nur@gmail.com**
-- ⚡ Fun fact **i'am happy man.**
-
 <br />
 
 ## 🚀 Let's Connect
