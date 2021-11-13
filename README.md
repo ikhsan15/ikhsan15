@@ -28,7 +28,7 @@
 	
 </p>
 
-<img align="left" src="https://github.com/ikhsan15/ikhsan15/blob/main/sans.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<!-- <img align="left" src="https://github.com/ikhsan15/ikhsan15/blob/main/sans.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />  -->
 
 ```zsh
 > sans buster
