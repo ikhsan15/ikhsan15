@@ -28,6 +28,10 @@
 	
 </p>
 
+```zsh
+> sans buster
+```
+
 ```php
 <?= "Hello World"; ?>
 <?php
