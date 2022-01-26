@@ -45,6 +45,7 @@
   $databases  = array('PostgreSQL', 'MySql', 'Firebase');
   $frameworks = array('Codeigniter 3', 'Laravel', 'yii 2');
   $platforms  = array('Heroku', 'Netlify');
+  $designs    = array('Indesign', 'Photoshop', 'Illustrator', 'Figma'); 
 
 ?>
 ```
