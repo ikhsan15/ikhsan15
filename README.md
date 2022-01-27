@@ -39,11 +39,11 @@
 ```php
 <?= "Hello World"; ?>
 <?php
-  $learning   = array('Web', 'Svelte', 'Flutter');
+  $learning   = array('Web', 'Flutter');
   $ide        = array('Vs Code');
-  $languages  = array('PHP', 'Javascript', 'Html', 'Css');
+  $languages  = array('PHP', 'Javascript', 'Dart');
   $databases  = array('PostgreSQL', 'MySql', 'Firebase');
-  $frameworks = array('Codeigniter 3', 'Laravel', 'yii 2');
+  $frameworks = array('Codeigniter 3', 'yii 2');
   $platforms  = array('Heroku', 'Netlify');
   $designs    = array('Indesign', 'Photoshop', 'Illustrator', 'Figma'); 
 
