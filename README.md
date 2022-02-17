@@ -39,7 +39,7 @@
 ```php
 <?= "Hello World"; ?>
 <?php
-  $learning   = array('Web', 'Flutter');
+  $learning   = array('Web', 'Selenium with Pyhton');
   $ide        = array('Vs Code');
   $languages  = array('PHP', 'Javascript', 'Dart');
   $databases  = array('PostgreSQL', 'MySql', 'Firebase');
