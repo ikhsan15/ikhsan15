@@ -39,12 +39,12 @@
 ```php
 <?= "Hello World"; ?>
 <?php
-  $learning   = array('Web', 'Selenium with Pyhton');
+  $learning   = array('Web', 'QA Manual & Automation');
   $ide        = array('Vs Code');
   $languages  = array('PHP', 'Javascript', 'Dart');
   $databases  = array('PostgreSQL', 'MySql', 'Firebase');
   $frameworks = array('Codeigniter 3', 'yii 2');
-  $platforms  = array('Heroku', 'Netlify');
+  $platforms  = array('Heroku', 'Vercel');
   $designs    = array('Indesign', 'Photoshop', 'Illustrator', 'Figma'); 
 
 ?>
